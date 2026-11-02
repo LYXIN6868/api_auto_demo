@@ -1,3 +1,4 @@
+[![API Automated Test](https://github.com/LYXIN6868/api_auto_demo/actions/workflows/api-test.yml/badge.svg)](https://github.com/LYXIN6868/api_auto_demo/actions/workflows/api-test.yml)
 # JSONPlaceholder API 自动化测试框架
 
 基于 Python + Pytest + Requests 搭建的接口自动化项目。
