@@ -1,0 +1,12 @@
+create_posts:
+  - title: "测试数据文章A"
+    body: "这是内容A"
+    userId: 1
+  - title: "测试数据文章B"
+    body: "这是内容B"
+    userId: 2
+
+invalid_ids:
+  - "abc"
+  - -1
+  - 999999

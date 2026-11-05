@@ -25,6 +25,8 @@
 api-auto-demo/
 ├── api/                  # API Object 层（接口封装）
 │   └── post_api.py       
+├── data/                 # 数据驱动层
+│   └── post_data.yaml    # YAML 测试数据
 ├── tests/                # 测试用例层
 │   ├── test_posts.py     
 │   └── test_smoke.py     
@@ -36,5 +38,7 @@ api-auto-demo/
 └── requirements.txt      # 依赖清单
 
 # 如何运行
-1. 安装依赖：`pip install -r requirements.txt`
-2. 执行测试：`pytest`
+    安装依赖：pip install -r requirements.txt
+    运行测试并生成报告数据：pytest --alluredir=./allure-results
+    查看可视化测试报告：allure serve ./allure-results
+
