@@ -1,7 +1,6 @@
 # 🚀 JSONPlaceholder API 自动化测试框架
 
 [![API Automated Test](https://github.com/LYXIN6868/api_auto_demo/actions/workflows/api-test.yml/badge.svg)](https://github.com/LYXIN6868/api_auto_demo/actions/workflows/api-test.yml)
-
 基于 Python + Pytest + Requests + Allure 搭建的接口自动化测试框架。采用分层设计思想，实现了接口请求封装、全局日志收集与 CI/CD 持续集成。
 
 # 核心特性与优化点
