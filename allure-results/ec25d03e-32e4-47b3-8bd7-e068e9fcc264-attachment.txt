@@ -1,0 +1,13 @@
+2026-11-04 14:32:26 - INFO - ===发送请求===
+2026-11-04 14:32:26 - INFO - 请求方法：POST |URL:https://jsonplaceholder.typicode.com/posts
+2026-11-04 14:32:26 - INFO - 请求参数：b'{"title": "My new post", "body": "This is my new post", "userId": 1}'
+2026-11-04 14:32:26 - INFO - ===接收响应===
+2026-11-04 14:32:26 - INFO - 响应状态码：201 |接口耗时:0.520306秒
+2026-11-04 14:32:26 - INFO - 响应内容：{
+  "title": "My new post",
+  "body": "This is my new post",
+  "userId": 1,
+  "id": 101
+}
+2026-11-04 14:32:26 - INFO - ========================
+

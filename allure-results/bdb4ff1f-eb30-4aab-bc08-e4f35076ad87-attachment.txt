@@ -1,0 +1,12 @@
+[32mINFO    [0m APILog:conftest.py:24 ===发送请求===
+[32mINFO    [0m APILog:conftest.py:25 请求方法：POST |URL:https://jsonplaceholder.typicode.com/posts
+[32mINFO    [0m APILog:conftest.py:27 请求参数：b'{"title": "\\u6d4b\\u8bd5\\u6570\\u636e\\u6587\\u7ae0B", "body": "\\u8fd9\\u662f\\u5185\\u5bb9B", "userId": 2}'
+[32mINFO    [0m APILog:conftest.py:30 ===接收响应===
+[32mINFO    [0m APILog:conftest.py:31 响应状态码：201 |接口耗时:0.280371秒
+[32mINFO    [0m APILog:conftest.py:32 响应内容：{
+  "title": "测试数据文章B",
+  "body": "这是内容B",
+  "userId": 2,
+  "id": 101
+}
+[32mINFO    [0m APILog:conftest.py:33 ========================

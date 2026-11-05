@@ -1,0 +1,11 @@
+2026-11-04 14:32:25 - INFO - ===发送请求===
+2026-11-04 14:32:25 - INFO - 请求方法：GET |URL:https://jsonplaceholder.typicode.com/posts/3
+2026-11-04 14:32:25 - INFO - ===接收响应===
+2026-11-04 14:32:25 - INFO - 响应状态码：200 |接口耗时:0.262244秒
+2026-11-04 14:32:25 - INFO - 响应内容：{
+  "userId": 1,
+  "id": 3,
+  "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+  "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus
+2026-11-04 14:32:25 - INFO - ========================
+
