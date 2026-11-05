@@ -1,6 +1,0 @@
-[32mINFO    [0m APILog:conftest.py:24 ===发送请求===
-[32mINFO    [0m APILog:conftest.py:25 请求方法：GET |URL:https://jsonplaceholder.typicode.com/posts/-1
-[32mINFO    [0m APILog:conftest.py:30 ===接收响应===
-[32mINFO    [0m APILog:conftest.py:31 响应状态码：404 |接口耗时:0.210428秒
-[32mINFO    [0m APILog:conftest.py:32 响应内容：{}
-[32mINFO    [0m APILog:conftest.py:33 ========================
